@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='no-op',
+    name='pythonnoop',
     version='1.0',
     description='no-ops modules for you',
     author='Josh Palmer',
