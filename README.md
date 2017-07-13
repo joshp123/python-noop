@@ -15,3 +15,8 @@ Sometimes modules do bad things (pickle). You might want to disable them but you
 >>> base64.b64encode('beep boop')
 >>>
 ```
+## Installation:
+
+```
+pip install no-op
+```
